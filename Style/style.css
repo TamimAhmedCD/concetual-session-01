@@ -1,0 +1,45 @@
+.heading-parent{
+
+    background-image: url(../Asset/BG.gif);
+    background-repeat: no-repeat;
+    background-size: 1000px;
+    background-position: bottom;
+    max-width: 800px;
+    height: 800px;
+    background-color: rgb(50, 5, 77);
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h1{
+
+    color: white;
+    text-align: center;
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: normal;
+    font-weight: bolder;
+    text-decoration: overline;
+
+}
+
+#btn{
+    
+    background-color: rgb(255, 196, 0);
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 10px 18px;
+
+}
+
+.btn-parent{
+
+    text-align: center;
+
+}
+
